@@ -1,0 +1,2 @@
+# sturktura
+c++
